@@ -1,4 +1,4 @@
-# python_repository_simple
+# circular_dependency
 
 ## 環境詳細
 
@@ -11,6 +11,7 @@
 - VSCode の拡張機能「Remote - Containers」インストール
   - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 - 本リポジトリの clone
+- `.env` ファイルを空ファイルでプロジェクト直下に作成
 
 ### 開発手順
 
